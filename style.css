@@ -1,0 +1,11 @@
+h1 {
+    color: purple;
+}
+
+h2 {
+   color: green;
+   background-color: yellow;
+   padding: 15 30;
+   font-size: 30px;
+   border: groove;
+}
