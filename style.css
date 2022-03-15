@@ -4,8 +4,23 @@ h1 {
 
 h2 {
    color: green;
-   background-color: yellow;
    padding: 15 30;
    font-size: 30px;
    border: groove;
 }
+
+
+  nav {
+      background-color: rgb(201, 162, 236);
+      padding: 2px;
+      font-size: 20px;
+  }
+
+  .size {
+    width: 150px;
+    background-color: rgb(221, 221, 103);
+  }
+
+  .size:hover {
+      background-color: aqua;
+  }
